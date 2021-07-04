@@ -10,7 +10,7 @@
 
 <a href="iq.oodi://invite">invite friends</a>
 
-<a href="iq.oodi://settings">invite friends:</a>
+<a href="iq.oodi://settings">settings:</a>
 
 <a href="iq.oodi://help">help center</a>
 
@@ -18,7 +18,7 @@
 
 <a href="iq.oodi://sharedata">transfer data</a>
 
-<a href="iq.oodi://sharecredit">transfer minutes:</a>
+<a href="iq.oodi://sharecredit">transfer credit:</a>
 
 <a href="iq.oodi://stats">dashboards</a>
 
